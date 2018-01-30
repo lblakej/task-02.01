@@ -1,0 +1,42 @@
+/* click on the skeleton.css file and go to line 127 for typography info */
+
+body {
+   background-color: beige;
+}
+
+.text-center {
+  text-align: center;
+}
+
+
+.head-intro {
+  font-family: 'sans serif', serif;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 20px;
+  text-transform: uppercase;
+}
+
+/* apply these to wrap text around images to get them to align as you wish */
+
+/* img class="align-right" */
+.align-right {
+    float: right;
+    margin: 0 0 0.5em 1em;
+    max-width: 50%;
+}
+
+/* img class="align-left" */
+.align-left {
+    float: left;
+    margin: 0 1em 0.5em 0;
+    position: relative;
+    top: 0.5em;
+    max-width: 50%;
+}
+.align-center {
+    display: block;
+    margin: 1em auto;
+    position: relative;
+    top: 0.5em;
+    }
