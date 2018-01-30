@@ -1,8 +1,5 @@
 # Quick links that are helpful to have:
 
-<p><b>NEW VIDEO:</b> <a href="../../videos/googlefonts.mp4">Integrating Google Fonts in your site</a><br />
-
-
 <ul>
 	<li><a href="http://studentdemo-lblakej.cloudapps.unc.edu/" target="_blank">My Example Site as a finished site</a></li>
 	<li><a href="http://php-site-lblakej.cloudapps.unc.edu/" target="_blank">My Example PHP Site with lots of background images</a></li>
