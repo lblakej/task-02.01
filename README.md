@@ -1,7 +1,7 @@
 # Quick links that are helpful to have:
 
 <ul>
-	<li><a href="http://studentdemo-lblakej.cloudapps.unc.edu/" target="_blank">My task 02.01 >>> 02.02 Site as a (mostly) finished site</a></li>
+	<li><a href="http://studentdemo-lblakej.cloudapps.unc.edu/" target="_blank">My task 02.01 site is continued into a  02.02 site. It is a (mostly) finished site.</a></li>
 	<li><a href="http://php-site-lblakej.cloudapps.unc.edu/" target="_blank">My Example PHP Site with lots of background images</a></li>
 <!-->	<li><a href="https://sc.unc.edu/lblakej/2017-fall-inls161-website" target="_blank">My Example Source Control Repository</a></li> -->
 	<li><a href="http://getskeleton.com/" target="_blank">Skeleton CSS instructions</a></li>
