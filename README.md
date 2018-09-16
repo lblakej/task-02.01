@@ -3,7 +3,7 @@
 <ul>
 	<li><a href="http://studentdemo-lblakej.cloudapps.unc.edu/" target="_blank">My task 02.01 site is continued into a  02.02 site. It is a (mostly) finished site.</a></li>
 	<li><a href="http://php-site-lblakej.cloudapps.unc.edu/" target="_blank">My Example PHP Site with lots of background images</a></li>
-<!-->	<li><a href="https://sc.unc.edu/lblakej/2017-fall-inls161-website" target="_blank">My Example Source Control Repository</a></li> -->
+<!--	<li><a href="https://sc.unc.edu/lblakej/2017-fall-inls161-website" target="_blank">My Example Source Control Repository</a></li> -->
 	<li><a href="http://getskeleton.com/" target="_blank">Skeleton CSS instructions</a></li>
 	<li><a href="http://editor.method.ac/" target="_blank">Method Draw: Free online image editor</a></li>
 	<li><a href="http://htmlandcssbook.com/code-samples/" target="_blank">Valuable code samples!</a> Navigate to the code you need, right click to see the code and copy and paste as you need.</li>
