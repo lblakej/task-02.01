@@ -1,9 +1,9 @@
 # Quick links that are helpful to have:
 
 <ul>
-	<li><a href="http://studentdemo-lblakej.cloudapps.unc.edu/" target="_blank">My task 02.01 Site as a finished site</a></li>
+	<li><a href="http://studentdemo-lblakej.cloudapps.unc.edu/" target="_blank">My task 02.01 Site as a (mostly) finished site</a></li>
 	<li><a href="http://php-site-lblakej.cloudapps.unc.edu/" target="_blank">My Example PHP Site with lots of background images</a></li>
-	<li><a href="https://sc.unc.edu/lblakej/2017-fall-inls161-website" target="_blank">My Example Source Control Repository</a></li>
+<!-->	<li><a href="https://sc.unc.edu/lblakej/2017-fall-inls161-website" target="_blank">My Example Source Control Repository</a></li> -->
 	<li><a href="http://getskeleton.com/" target="_blank">Skeleton CSS instructions</a></li>
 	<li><a href="http://editor.method.ac/" target="_blank">Method Draw: Free online image editor</a></li>
 	<li><a href="http://htmlandcssbook.com/code-samples/" target="_blank">Valuable code samples!</a> Navigate to the code you need, right click to see the code and copy and paste as you need.</li>
@@ -15,8 +15,7 @@
 	<li><a href="https://codepen.io/lisa_c/pen/akjiy">Navigation Code Link</a></li>
 	<li>Skeleton uses rem units, so read this over:<br />
 	<a href="https://www.sitepoint.com/understanding-and-using-rem-units-in-css/">Understanding rem units</a></li>
-	<li><a href="http://www.unc.edu/~lblakej/">I used skeleton here for a UNC page.</a></li>
-	<li><a href="http://thecarterbuilding.com/">I built this site for the Carter Building using skeleton.</a></li>
+        <li><a href="http://thecarterbuilding.com/">I built this site for the Carter Building using skeleton.</a></li>
 </ul>
 
 
