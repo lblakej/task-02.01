@@ -4,18 +4,20 @@ body {
    background-color: beige;
 }
 
+p, li {
+   /* paste body copy google font css here */
+}
+
+h1, h2 {
+   /* paste heading google font css here */
+}
+
+/* use this to center text in a div, column, or tag: class="text-center" */
+
 .text-center {
   text-align: center;
 }
 
-
-.head-intro {
-  font-family: 'sans serif', serif;
-  font-size: 20px;
-  text-align: center;
-  padding-top: 20px;
-  text-transform: uppercase;
-}
 
 /* apply these to wrap text around images to get them to align as you wish */
 
